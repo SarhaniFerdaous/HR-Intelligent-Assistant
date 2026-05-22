@@ -6,7 +6,7 @@ Built with **LangChain**, **ChromaDB**, **Groq/Llama 3.3**, and **Streamlit**.
 
 ---
 
-## ✨ What It Does
+## What It Does
 
 - **Answers HR questions** from your uploaded company documents (PDF, DOCX, TXT, CSV)
 - **Fetches public holidays** by country in real time
@@ -18,7 +18,7 @@ Built with **LangChain**, **ChromaDB**, **Groq/Llama 3.3**, and **Streamlit**.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The agent uses **3 controlled data sources** — it never hallucinates:
 
@@ -30,7 +30,7 @@ The agent uses **3 controlled data sources** — it never hallucinates:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -83,7 +83,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hr-assistant/
@@ -100,7 +100,7 @@ hr-assistant/
 
 ---
 
-## 💬 Example Questions You Can Ask
+## Example Questions You Can Ask
 
 - *"How many leave days am I entitled to?"*
 - *"What are the public holidays in Tunisia this year?"*
@@ -111,7 +111,7 @@ hr-assistant/
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - The `venv/` folder and `.env` file are excluded from GitHub for security
 - The `chroma_db/` folder is auto-generated when you upload your first document
