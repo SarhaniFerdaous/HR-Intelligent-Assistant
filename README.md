@@ -8,13 +8,13 @@ Built with **LangChain**, **ChromaDB**, **Groq/Llama 3.3**, and **Streamlit**.
 
 ## ✨ What It Does
 
-- 📄 **Answers HR questions** from your uploaded company documents (PDF, DOCX, TXT, CSV)
-- 📅 **Fetches public holidays** by country in real time
-- 💱 **Converts currencies** for international salary questions
-- 📋 **Checks compliance** against internal company policies
-- 📞 **Finds the right HR contact** for any topic
-- 🌍 **Responds in the same language** as the employee (EN / FR / AR)
-- 🧠 **Shows its reasoning steps** transparently
+- **Answers HR questions** from your uploaded company documents (PDF, DOCX, TXT, CSV)
+- **Fetches public holidays** by country in real time
+- **Converts currencies** for international salary questions
+- **Checks compliance** against internal company policies
+- **Finds the right HR contact** for any topic
+- **Responds in the same language** as the employee (EN / FR / AR)
+- **Shows its reasoning steps** transparently
 
 ---
 
@@ -45,7 +45,7 @@ The agent uses **3 controlled data sources** — it never hallucinates:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
